@@ -1,0 +1,33 @@
+puts "Digite o mês a ser verificado "
+mes = gets.chomp // para receber as strings
+trintaUm = "tem 31 dias"
+trinta = "tem 30 dias"
+
+case mes
+when "Janeiro" 
+    puts "#{trintaUm}"
+when "Fevereiro" 
+    puts "tem 28 dias"
+when "Março" 
+    puts "#{trintaUm}"
+when "Abril" 
+    puts "#{trinta}"
+when "Maio" 
+    puts "#{trintaUm}"
+when "Junho"
+     puts "#{trinta}"
+when "Julho" 
+    puts "#{trintaUm}"
+when "Agosto" 
+    puts "#{trintaUm}"
+when "Setembro"
+     puts "#{trinta}"
+when "Outubro" 
+    puts "#{trintaUm}"
+when "Novembro"
+     puts "#{trinta}"
+when "Dezembro" 
+    puts "#{trintaUm}"
+else
+    puts "não sei quantos dias tem esse mês"
+end
