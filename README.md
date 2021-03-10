@@ -1,3 +1,5 @@
+![GitHub language count](https://img.shields.io/github/languages/count/srtapoe/ruby-iniciantes?style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/srtapoe/ruby-iniciantes?style=social)
 # ruby-iniciantes
 ### Estudos básicos e intermediários na linguagem Ruby até Ruby on Rails :diamonds: :gem: 
 
